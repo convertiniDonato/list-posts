@@ -1,0 +1,4 @@
+una volta creato il progetto con "npx create-react-app" :
+1)installare "npm install react-router-dom"
+2)installare "npm install react-tooltip"
+3)installare "npm install react-bootstrap bootstrap"
